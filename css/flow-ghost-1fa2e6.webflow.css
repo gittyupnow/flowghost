@@ -6,6 +6,7 @@
 body {
   background-color: var(--black);
   color: #333;
+  cursor: default;
   font-family: Jetbrainsmono, sans-serif;
   font-size: 14px;
   font-weight: 400;
